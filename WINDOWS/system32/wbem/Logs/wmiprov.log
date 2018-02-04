@@ -1,0 +1,26 @@
+(Sat Jun 07 23:14:03 2014.315609) : WDM call returned error: 4200
+(Sat Jun 07 23:14:04 2014.316421) : ***************************************
+(Sat Jun 07 23:14:04 2014.316421) : Could not get pointer to binary resource for file:
+(Sat Jun 07 23:14:04 2014.316421) : C:\WINDOWS\System32\drivers\afd.sys[AfdMofResource](Sat Jun 07 23:14:04 2014.316421) : 
+(Sat Jun 07 23:14:04 2014.316421) : ***************************************
+(Sat Jun 07 23:29:59 2014.269296) : WDM call returned error: 4200
+(Sat Jun 07 23:29:59 2014.269296) : ***************************************
+(Sat Jun 07 23:29:59 2014.269296) : Could not get pointer to binary resource for file:
+(Sat Jun 07 23:29:59 2014.269296) : C:\WINDOWS\System32\drivers\afd.sys[AfdMofResource](Sat Jun 07 23:29:59 2014.269296) : 
+(Sat Jun 07 23:29:59 2014.269296) : ***************************************
+(Sat Jun 07 23:37:07 2014.21921) : WDM call returned error: 4200
+(Sat Jun 07 23:37:08 2014.22171) : ***************************************
+(Sat Jun 07 23:37:08 2014.22171) : Could not get pointer to binary resource for file:
+(Sat Jun 07 23:37:08 2014.22171) : C:\WINDOWS\System32\drivers\afd.sys[AfdMofResource](Sat Jun 07 23:37:08 2014.22171) : 
+(Sat Jun 07 23:37:08 2014.22171) : ***************************************
+(Sat Jun 07 23:37:12 2014.26250) : Received Event
+(Sun Jun 08 21:33:41 2014.26921) : WDM call returned error: 4200
+(Sun Jun 08 21:33:41 2014.26953) : ***************************************
+(Sun Jun 08 21:33:41 2014.26953) : Could not get pointer to binary resource for file:
+(Sun Jun 08 21:33:41 2014.26953) : C:\WINDOWS\System32\drivers\afd.sys[AfdMofResource](Sun Jun 08 21:33:41 2014.26953) : 
+(Sun Jun 08 21:33:41 2014.26953) : ***************************************
+(Sun Jun 08 09:35:00 2014.19531) : WDM call returned error: 4200
+(Sun Jun 08 09:35:02 2014.21843) : ***************************************
+(Sun Jun 08 09:35:02 2014.21843) : Could not get pointer to binary resource for file:
+(Sun Jun 08 09:35:02 2014.21843) : C:\WINDOWS\System32\drivers\afd.sys[AfdMofResource](Sun Jun 08 09:35:02 2014.21859) : 
+(Sun Jun 08 09:35:02 2014.21859) : ***************************************

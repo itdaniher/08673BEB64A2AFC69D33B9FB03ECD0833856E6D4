@@ -1,0 +1,9 @@
+
+#pragma namespace("\\\\.\\Root\\WMI")
+
+
+#pragma DeleteClass("MS_VDS_SM_AdapterInformationQuery", NOFAIL)
+#pragma DeleteClass("MS_VDS_SMHBA_FC_Port", NOFAIL)
+#pragma DeleteClass("MS_VDS_SMHBA_SAS_Port", NOFAIL)
+#pragma DeleteClass("MS_VDS_SMHBA_PORTATTRIBUTES", NOFAIL)
+#pragma DeleteClass("MS_VDS_SM_PortInformationMethods", NOFAIL)

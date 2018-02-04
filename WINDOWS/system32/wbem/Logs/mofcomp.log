@@ -1,0 +1,221 @@
+(Sat Jun 07 23:13:59 2014.311515) : Parsing MOF file: C:\WINDOWS\system32\WBEM\cimwin32.mof
+(Sat Jun 07 23:14:01 2014.313031) : Finished compiling file:C:\WINDOWS\system32\WBEM\cimwin32.mof
+(Sat Jun 07 23:14:01 2014.313046) : Parsing MOF file: C:\WINDOWS\system32\WBEM\cimwin32.mfl
+(Sat Jun 07 23:14:01 2014.313765) : Finished compiling file:C:\WINDOWS\system32\WBEM\cimwin32.mfl
+(Sat Jun 07 23:14:01 2014.313781) : Parsing MOF file: C:\WINDOWS\system32\WBEM\system.mof
+(Sat Jun 07 23:14:01 2014.313875) : Finished compiling file:C:\WINDOWS\system32\WBEM\system.mof
+(Sat Jun 07 23:14:01 2014.313875) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipcima.mof
+(Sat Jun 07 23:14:01 2014.313921) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipcima.mof
+(Sat Jun 07 23:14:01 2014.313921) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipcima.mfl
+(Sat Jun 07 23:14:01 2014.313953) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipcima.mfl
+(Sat Jun 07 23:14:01 2014.313953) : Parsing MOF file: C:\WINDOWS\system32\WBEM\regevent.mof
+(Sat Jun 07 23:14:01 2014.314000) : Finished compiling file:C:\WINDOWS\system32\WBEM\regevent.mof
+(Sat Jun 07 23:14:01 2014.314000) : Parsing MOF file: C:\WINDOWS\system32\WBEM\regevent.mfl
+(Sat Jun 07 23:14:02 2014.314031) : Finished compiling file:C:\WINDOWS\system32\WBEM\regevent.mfl
+(Sat Jun 07 23:14:02 2014.314031) : Parsing MOF file: C:\WINDOWS\system32\WBEM\ntevt.mof
+(Sat Jun 07 23:14:02 2014.314062) : Finished compiling file:C:\WINDOWS\system32\WBEM\ntevt.mof
+(Sat Jun 07 23:14:02 2014.314062) : Parsing MOF file: C:\WINDOWS\system32\WBEM\ntevt.mfl
+(Sat Jun 07 23:14:02 2014.314078) : Finished compiling file:C:\WINDOWS\system32\WBEM\ntevt.mfl
+(Sat Jun 07 23:14:02 2014.314093) : Parsing MOF file: C:\WINDOWS\system32\WBEM\secrcw32.mof
+(Sat Jun 07 23:14:02 2014.314140) : Finished compiling file:C:\WINDOWS\system32\WBEM\secrcw32.mof
+(Sat Jun 07 23:14:02 2014.314140) : Parsing MOF file: C:\WINDOWS\system32\WBEM\secrcw32.mfl
+(Sat Jun 07 23:14:02 2014.314156) : Finished compiling file:C:\WINDOWS\system32\WBEM\secrcw32.mfl
+(Sat Jun 07 23:14:02 2014.314156) : Parsing MOF file: C:\WINDOWS\system32\WBEM\dsprov.mof
+(Sat Jun 07 23:14:02 2014.314203) : Finished compiling file:C:\WINDOWS\system32\WBEM\dsprov.mof
+(Sat Jun 07 23:14:02 2014.314203) : Parsing MOF file: C:\WINDOWS\system32\WBEM\dsprov.mfl
+(Sat Jun 07 23:14:02 2014.314218) : Finished compiling file:C:\WINDOWS\system32\WBEM\dsprov.mfl
+(Sat Jun 07 23:14:02 2014.314218) : Parsing MOF file: C:\WINDOWS\system32\WBEM\policman.mof
+(Sat Jun 07 23:14:02 2014.314281) : Finished compiling file:C:\WINDOWS\system32\WBEM\policman.mof
+(Sat Jun 07 23:14:02 2014.314281) : Parsing MOF file: C:\WINDOWS\system32\WBEM\policman.mfl
+(Sat Jun 07 23:14:02 2014.314296) : Finished compiling file:C:\WINDOWS\system32\WBEM\policman.mfl
+(Sat Jun 07 23:14:02 2014.314296) : Parsing MOF file: C:\WINDOWS\system32\WBEM\subscrpt.mof
+(Sat Jun 07 23:14:02 2014.314359) : Finished compiling file:C:\WINDOWS\system32\WBEM\subscrpt.mof
+(Sat Jun 07 23:14:02 2014.314359) : Parsing MOF file: C:\WINDOWS\system32\WBEM\evntrprv.mof
+(Sat Jun 07 23:14:02 2014.314406) : Finished compiling file:C:\WINDOWS\system32\WBEM\evntrprv.mof
+(Sat Jun 07 23:14:02 2014.314406) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmi.mof
+(Sat Jun 07 23:14:02 2014.314609) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmi.mof
+(Sat Jun 07 23:14:02 2014.314625) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmi.mfl
+(Sat Jun 07 23:14:02 2014.314625) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmi.mfl
+(Sat Jun 07 23:14:02 2014.314625) : Parsing MOF file: C:\WINDOWS\system32\WBEM\scm.mof
+(Sat Jun 07 23:14:02 2014.314656) : Finished compiling file:C:\WINDOWS\system32\WBEM\scm.mof
+(Sat Jun 07 23:14:02 2014.314656) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmitimep.mof
+(Sat Jun 07 23:14:02 2014.314671) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmitimep.mof
+(Sat Jun 07 23:14:02 2014.314687) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmitimep.mfl
+(Sat Jun 07 23:14:02 2014.314687) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmitimep.mfl
+(Sat Jun 07 23:14:02 2014.314687) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipdskq.mof
+(Sat Jun 07 23:14:02 2014.314703) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipdskq.mof
+(Sat Jun 07 23:14:02 2014.314703) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipdskq.mfl
+(Sat Jun 07 23:14:02 2014.314718) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipdskq.mfl
+(Sat Jun 07 23:14:02 2014.314718) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipicmp.mof
+(Sat Jun 07 23:14:02 2014.314750) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipicmp.mof
+(Sat Jun 07 23:14:02 2014.314750) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipicmp.mfl
+(Sat Jun 07 23:14:02 2014.314765) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipicmp.mfl
+(Sat Jun 07 23:14:02 2014.314765) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipiprt.mof
+(Sat Jun 07 23:14:02 2014.314796) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipiprt.mof
+(Sat Jun 07 23:14:02 2014.314796) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipiprt.mfl
+(Sat Jun 07 23:14:02 2014.314812) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipiprt.mfl
+(Sat Jun 07 23:14:02 2014.314812) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipjobj.mof
+(Sat Jun 07 23:14:02 2014.314859) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipjobj.mof
+(Sat Jun 07 23:14:02 2014.314859) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipjobj.mfl
+(Sat Jun 07 23:14:02 2014.314890) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipjobj.mfl
+(Sat Jun 07 23:14:02 2014.314890) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipsess.mof
+(Sat Jun 07 23:14:02 2014.314906) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipsess.mof
+(Sat Jun 07 23:14:02 2014.314906) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipsess.mfl
+(Sat Jun 07 23:14:02 2014.314921) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipsess.mfl
+(Sat Jun 07 23:14:02 2014.314921) : Parsing MOF file: C:\WINDOWS\system32\WBEM\krnlprov.mof
+(Sat Jun 07 23:14:02 2014.314937) : Finished compiling file:C:\WINDOWS\system32\WBEM\krnlprov.mof
+(Sat Jun 07 23:14:02 2014.314937) : Parsing MOF file: C:\WINDOWS\system32\WBEM\krnlprov.mfl
+(Sat Jun 07 23:14:02 2014.314953) : Finished compiling file:C:\WINDOWS\system32\WBEM\krnlprov.mfl
+(Sat Jun 07 23:14:02 2014.314953) : Parsing MOF file: C:\WINDOWS\system32\WBEM\cli.mof
+(Sat Jun 07 23:14:02 2014.314968) : Finished compiling file:C:\WINDOWS\system32\WBEM\cli.mof
+(Sat Jun 07 23:14:02 2014.314968) : Parsing MOF file: C:\WINDOWS\system32\WBEM\tscfgwmi.mof
+(Sat Jun 07 23:14:03 2014.315171) : Finished compiling file:C:\WINDOWS\system32\WBEM\tscfgwmi.mof
+(Sat Jun 07 23:14:03 2014.315171) : Parsing MOF file: C:\WINDOWS\system32\WBEM\tscfgwmi.mfl
+(Sat Jun 07 23:14:03 2014.315218) : Finished compiling file:C:\WINDOWS\system32\WBEM\tscfgwmi.mfl
+(Sat Jun 07 23:14:03 2014.315218) : Parsing MOF file: C:\WINDOWS\system32\WBEM\licwmi.mof
+(Sat Jun 07 23:14:03 2014.315312) : Finished compiling file:C:\WINDOWS\system32\WBEM\licwmi.mof
+(Sat Jun 07 23:14:03 2014.315312) : Parsing MOF file: C:\WINDOWS\system32\WBEM\licwmi.mfl
+(Sat Jun 07 23:14:03 2014.315328) : Finished compiling file:C:\WINDOWS\system32\WBEM\licwmi.mfl
+(Sat Jun 07 23:14:03 2014.315328) : Parsing MOF file: C:\WINDOWS\system32\WBEM\hnetcfg.mof
+(Sat Jun 07 23:14:03 2014.315359) : Finished compiling file:C:\WINDOWS\system32\WBEM\hnetcfg.mof
+(Sat Jun 07 23:14:03 2014.315359) : Parsing MOF file: C:\WINDOWS\system32\WBEM\sr.mof
+(Sat Jun 07 23:14:03 2014.315375) : Finished compiling file:C:\WINDOWS\system32\WBEM\sr.mof
+(Sat Jun 07 23:14:03 2014.315375) : Parsing MOF file: C:\WINDOWS\system32\WBEM\CmdEvTgProv.mof
+(Sat Jun 07 23:14:03 2014.315390) : Finished compiling file:C:\WINDOWS\system32\WBEM\CmdEvTgProv.mof
+(Sat Jun 07 23:14:03 2014.315390) : Parsing MOF file: C:\WINDOWS\system32\WBEM\whqlprov.mof
+(Sat Jun 07 23:14:03 2014.315406) : Finished compiling file:C:\WINDOWS\system32\WBEM\whqlprov.mof
+(Sat Jun 07 23:14:03 2014.315406) : Parsing MOF file: C:\WINDOWS\system32\WBEM\ieinfo5.mof
+(Sat Jun 07 23:14:03 2014.315453) : Finished compiling file:C:\WINDOWS\system32\WBEM\ieinfo5.mof
+(Sat Jun 07 23:14:03 2014.315453) : Parsing MOF file: C:\WINDOWS\system32\WBEM\vds.mof
+(Sat Jun 07 23:14:03 2014.315500) : Finished compiling file:C:\WINDOWS\system32\WBEM\vds.mof
+(Sat Jun 07 23:14:03 2014.315500) : Parsing MOF file: C:\WINDOWS\system32\WBEM\vds.mfl
+(Sat Jun 07 23:14:03 2014.315531) : Finished compiling file:C:\WINDOWS\system32\WBEM\vds.mfl
+(Sat Jun 07 23:14:03 2014.315531) : Parsing MOF file: C:\WINDOWS\system32\WBEM\vss.mof
+(Sat Jun 07 23:14:03 2014.315578) : Finished compiling file:C:\WINDOWS\system32\WBEM\vss.mof
+(Sat Jun 07 23:14:03 2014.315578) : Parsing MOF file: C:\WINDOWS\system32\WBEM\vss.mfl
+(Sat Jun 07 23:14:03 2014.315609) : Finished compiling file:C:\WINDOWS\system32\WBEM\vss.mfl
+(Sat Jun 07 23:15:15 2014.387328) : Parsing MOF file: C:\WINDOWS\system32\Wbem\RSoP.mof
+(Sat Jun 07 23:15:15 2014.387421) : Finished compiling file:C:\WINDOWS\system32\Wbem\RSoP.mof
+(Sat Jun 07 23:15:15 2014.387437) : Parsing MOF file: C:\WINDOWS\system32\Wbem\RSoP.mfl
+(Sat Jun 07 23:15:15 2014.387546) : Finished compiling file:C:\WINDOWS\system32\Wbem\RSoP.mfl
+(Sat Jun 07 23:15:15 2014.387843) : Parsing MOF file: C:\WINDOWS\system32\Wbem\SceRsop.mof
+(Sat Jun 07 23:15:15 2014.387859) : Finished compiling file:C:\WINDOWS\system32\Wbem\SceRsop.mof
+(Sat Jun 07 23:15:18 2014.390390) : Parsing MOF file: C:\WINDOWS\system32\wbem\wscenter.mof
+(Sat Jun 07 23:15:18 2014.390406) : Finished compiling file:C:\WINDOWS\system32\wbem\wscenter.mof
+(Sat Jun 07 23:15:18 2014.390406) : Done!
+(Sat Jun 07 23:15:55 2014.427984) : Parsing MOF file: C:\WINDOWS\system32\wbem\cimwin32.mof
+(Sat Jun 07 23:15:56 2014.429015) : Finished compiling file:C:\WINDOWS\system32\wbem\cimwin32.mof
+(Sat Jun 07 23:15:57 2014.429031) : Done!
+(Sat Jun 07 23:15:57 2014.429140) : Parsing MOF file: C:\WINDOWS\system32\wbem\wmi.mof
+(Sat Jun 07 23:15:57 2014.429375) : Finished compiling file:C:\WINDOWS\system32\wbem\wmi.mof
+(Sat Jun 07 23:15:57 2014.429375) : Done!
+(Sat Jun 07 23:15:57 2014.429859) : Parsing MOF file: C:\WINDOWS\system32\wbem\polprocl.mof
+(Sat Jun 07 23:15:57 2014.429921) : Finished compiling file:C:\WINDOWS\system32\wbem\polprocl.mof
+(Sat Jun 07 23:15:57 2014.429921) : Done!
+(Sat Jun 07 23:29:25 2014.235515) : Parsing MOF file: C:\WINDOWS\system32\WBEM\cimwin32.mof
+(Sat Jun 07 23:29:55 2014.265812) : An error occurred while opening the namespace for object 1 defined on lines 8 - 11:
+(Sat Jun 07 23:29:55 2014.265812) : Error Number: 0x80080005, Facility: Windows
+Description: Server execution failed
+(Sat Jun 07 23:29:55 2014.265812) : Parsing MOF file: C:\WINDOWS\system32\WBEM\cimwin32.mfl
+(Sat Jun 07 23:29:56 2014.266921) : Finished compiling file:C:\WINDOWS\system32\WBEM\cimwin32.mfl
+(Sat Jun 07 23:29:56 2014.266921) : Parsing MOF file: C:\WINDOWS\system32\WBEM\system.mof
+(Sat Jun 07 23:29:57 2014.267078) : Finished compiling file:C:\WINDOWS\system32\WBEM\system.mof
+(Sat Jun 07 23:29:57 2014.267078) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipcima.mof
+(Sat Jun 07 23:29:57 2014.267125) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipcima.mof
+(Sat Jun 07 23:29:57 2014.267125) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipcima.mfl
+(Sat Jun 07 23:29:57 2014.267156) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipcima.mfl
+(Sat Jun 07 23:29:57 2014.267156) : Parsing MOF file: C:\WINDOWS\system32\WBEM\regevent.mof
+(Sat Jun 07 23:29:57 2014.267218) : Finished compiling file:C:\WINDOWS\system32\WBEM\regevent.mof
+(Sat Jun 07 23:29:57 2014.267218) : Parsing MOF file: C:\WINDOWS\system32\WBEM\regevent.mfl
+(Sat Jun 07 23:29:57 2014.267250) : Finished compiling file:C:\WINDOWS\system32\WBEM\regevent.mfl
+(Sat Jun 07 23:29:57 2014.267250) : Parsing MOF file: C:\WINDOWS\system32\WBEM\ntevt.mof
+(Sat Jun 07 23:29:57 2014.267296) : Finished compiling file:C:\WINDOWS\system32\WBEM\ntevt.mof
+(Sat Jun 07 23:29:57 2014.267296) : Parsing MOF file: C:\WINDOWS\system32\WBEM\ntevt.mfl
+(Sat Jun 07 23:29:57 2014.267312) : Finished compiling file:C:\WINDOWS\system32\WBEM\ntevt.mfl
+(Sat Jun 07 23:29:57 2014.267312) : Parsing MOF file: C:\WINDOWS\system32\WBEM\secrcw32.mof
+(Sat Jun 07 23:29:57 2014.267421) : Finished compiling file:C:\WINDOWS\system32\WBEM\secrcw32.mof
+(Sat Jun 07 23:29:57 2014.267437) : Parsing MOF file: C:\WINDOWS\system32\WBEM\secrcw32.mfl
+(Sat Jun 07 23:29:57 2014.267453) : Finished compiling file:C:\WINDOWS\system32\WBEM\secrcw32.mfl
+(Sat Jun 07 23:29:57 2014.267453) : Parsing MOF file: C:\WINDOWS\system32\WBEM\dsprov.mof
+(Sat Jun 07 23:29:57 2014.267500) : Finished compiling file:C:\WINDOWS\system32\WBEM\dsprov.mof
+(Sat Jun 07 23:29:57 2014.267515) : Parsing MOF file: C:\WINDOWS\system32\WBEM\dsprov.mfl
+(Sat Jun 07 23:29:57 2014.267515) : Finished compiling file:C:\WINDOWS\system32\WBEM\dsprov.mfl
+(Sat Jun 07 23:29:57 2014.267515) : Parsing MOF file: C:\WINDOWS\system32\WBEM\policman.mof
+(Sat Jun 07 23:29:57 2014.267562) : Finished compiling file:C:\WINDOWS\system32\WBEM\policman.mof
+(Sat Jun 07 23:29:57 2014.267562) : Parsing MOF file: C:\WINDOWS\system32\WBEM\policman.mfl
+(Sat Jun 07 23:29:57 2014.267578) : Finished compiling file:C:\WINDOWS\system32\WBEM\policman.mfl
+(Sat Jun 07 23:29:57 2014.267578) : Parsing MOF file: C:\WINDOWS\system32\WBEM\subscrpt.mof
+(Sat Jun 07 23:29:57 2014.267671) : Finished compiling file:C:\WINDOWS\system32\WBEM\subscrpt.mof
+(Sat Jun 07 23:29:57 2014.267671) : Parsing MOF file: C:\WINDOWS\system32\WBEM\evntrprv.mof
+(Sat Jun 07 23:29:57 2014.267734) : Finished compiling file:C:\WINDOWS\system32\WBEM\evntrprv.mof
+(Sat Jun 07 23:29:57 2014.267734) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmi.mof
+(Sat Jun 07 23:29:58 2014.268062) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmi.mof
+(Sat Jun 07 23:29:58 2014.268062) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmi.mfl
+(Sat Jun 07 23:29:58 2014.268062) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmi.mfl
+(Sat Jun 07 23:29:58 2014.268062) : Parsing MOF file: C:\WINDOWS\system32\WBEM\scm.mof
+(Sat Jun 07 23:29:58 2014.268109) : Finished compiling file:C:\WINDOWS\system32\WBEM\scm.mof
+(Sat Jun 07 23:29:58 2014.268109) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmitimep.mof
+(Sat Jun 07 23:29:58 2014.268171) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmitimep.mof
+(Sat Jun 07 23:29:58 2014.268171) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmitimep.mfl
+(Sat Jun 07 23:29:58 2014.268187) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmitimep.mfl
+(Sat Jun 07 23:29:58 2014.268187) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipdskq.mof
+(Sat Jun 07 23:29:58 2014.268203) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipdskq.mof
+(Sat Jun 07 23:29:58 2014.268203) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipdskq.mfl
+(Sat Jun 07 23:29:58 2014.268218) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipdskq.mfl
+(Sat Jun 07 23:29:58 2014.268218) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipicmp.mof
+(Sat Jun 07 23:29:58 2014.268250) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipicmp.mof
+(Sat Jun 07 23:29:58 2014.268250) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipicmp.mfl
+(Sat Jun 07 23:29:58 2014.268265) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipicmp.mfl
+(Sat Jun 07 23:29:58 2014.268265) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipiprt.mof
+(Sat Jun 07 23:29:58 2014.268296) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipiprt.mof
+(Sat Jun 07 23:29:58 2014.268296) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipiprt.mfl
+(Sat Jun 07 23:29:58 2014.268312) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipiprt.mfl
+(Sat Jun 07 23:29:58 2014.268312) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipjobj.mof
+(Sat Jun 07 23:29:58 2014.268390) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipjobj.mof
+(Sat Jun 07 23:29:58 2014.268390) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipjobj.mfl
+(Sat Jun 07 23:29:58 2014.268406) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipjobj.mfl
+(Sat Jun 07 23:29:58 2014.268406) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipsess.mof
+(Sat Jun 07 23:29:58 2014.268437) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipsess.mof
+(Sat Jun 07 23:29:58 2014.268437) : Parsing MOF file: C:\WINDOWS\system32\WBEM\wmipsess.mfl
+(Sat Jun 07 23:29:58 2014.268453) : Finished compiling file:C:\WINDOWS\system32\WBEM\wmipsess.mfl
+(Sat Jun 07 23:29:58 2014.268453) : Parsing MOF file: C:\WINDOWS\system32\WBEM\krnlprov.mof
+(Sat Jun 07 23:29:58 2014.268468) : Finished compiling file:C:\WINDOWS\system32\WBEM\krnlprov.mof
+(Sat Jun 07 23:29:58 2014.268484) : Parsing MOF file: C:\WINDOWS\system32\WBEM\krnlprov.mfl
+(Sat Jun 07 23:29:58 2014.268484) : Finished compiling file:C:\WINDOWS\system32\WBEM\krnlprov.mfl
+(Sat Jun 07 23:29:58 2014.268484) : Parsing MOF file: C:\WINDOWS\system32\WBEM\cli.mof
+(Sat Jun 07 23:29:58 2014.268515) : Finished compiling file:C:\WINDOWS\system32\WBEM\cli.mof
+(Sat Jun 07 23:29:58 2014.268515) : Parsing MOF file: C:\WINDOWS\system32\WBEM\tscfgwmi.mof
+(Sat Jun 07 23:29:58 2014.268828) : Finished compiling file:C:\WINDOWS\system32\WBEM\tscfgwmi.mof
+(Sat Jun 07 23:29:58 2014.268828) : Parsing MOF file: C:\WINDOWS\system32\WBEM\tscfgwmi.mfl
+(Sat Jun 07 23:29:58 2014.268906) : Finished compiling file:C:\WINDOWS\system32\WBEM\tscfgwmi.mfl
+(Sat Jun 07 23:29:58 2014.268906) : Parsing MOF file: C:\WINDOWS\system32\WBEM\licwmi.mof
+(Sat Jun 07 23:29:58 2014.268968) : Finished compiling file:C:\WINDOWS\system32\WBEM\licwmi.mof
+(Sat Jun 07 23:29:58 2014.268968) : Parsing MOF file: C:\WINDOWS\system32\WBEM\licwmi.mfl
+(Sat Jun 07 23:29:58 2014.269000) : Finished compiling file:C:\WINDOWS\system32\WBEM\licwmi.mfl
+(Sat Jun 07 23:29:58 2014.269000) : Parsing MOF file: C:\WINDOWS\system32\WBEM\hnetcfg.mof
+(Sat Jun 07 23:29:59 2014.269031) : Finished compiling file:C:\WINDOWS\system32\WBEM\hnetcfg.mof
+(Sat Jun 07 23:29:59 2014.269031) : Parsing MOF file: C:\WINDOWS\system32\WBEM\sr.mof
+(Sat Jun 07 23:29:59 2014.269062) : Finished compiling file:C:\WINDOWS\system32\WBEM\sr.mof
+(Sat Jun 07 23:29:59 2014.269062) : Parsing MOF file: C:\WINDOWS\system32\WBEM\CmdEvTgProv.mof
+(Sat Jun 07 23:29:59 2014.269078) : Finished compiling file:C:\WINDOWS\system32\WBEM\CmdEvTgProv.mof
+(Sat Jun 07 23:29:59 2014.269078) : Parsing MOF file: C:\WINDOWS\system32\WBEM\whqlprov.mof
+(Sat Jun 07 23:29:59 2014.269093) : Finished compiling file:C:\WINDOWS\system32\WBEM\whqlprov.mof
+(Sat Jun 07 23:29:59 2014.269093) : Parsing MOF file: C:\WINDOWS\system32\WBEM\ieinfo5.mof
+(Sat Jun 07 23:29:59 2014.269125) : Finished compiling file:C:\WINDOWS\system32\WBEM\ieinfo5.mof
+(Sat Jun 07 23:29:59 2014.269125) : Parsing MOF file: C:\WINDOWS\system32\WBEM\vds.mof
+(Sat Jun 07 23:29:59 2014.269171) : Finished compiling file:C:\WINDOWS\system32\WBEM\vds.mof
+(Sat Jun 07 23:29:59 2014.269171) : Parsing MOF file: C:\WINDOWS\system32\WBEM\vds.mfl
+(Sat Jun 07 23:29:59 2014.269203) : Finished compiling file:C:\WINDOWS\system32\WBEM\vds.mfl
+(Sat Jun 07 23:29:59 2014.269203) : Parsing MOF file: C:\WINDOWS\system32\WBEM\vss.mof
+(Sat Jun 07 23:29:59 2014.269265) : Finished compiling file:C:\WINDOWS\system32\WBEM\vss.mof
+(Sat Jun 07 23:29:59 2014.269265) : Parsing MOF file: C:\WINDOWS\system32\WBEM\vss.mfl
+(Sat Jun 07 23:29:59 2014.269281) : Finished compiling file:C:\WINDOWS\system32\WBEM\vss.mfl
+(Sat Jun 07 23:30:51 2014.321125) : Parsing MOF file: C:\WINDOWS\system32\Wbem\RSoP.mof
+(Sat Jun 07 23:30:51 2014.321281) : Finished compiling file:C:\WINDOWS\system32\Wbem\RSoP.mof
+(Sat Jun 07 23:30:51 2014.321281) : Parsing MOF file: C:\WINDOWS\system32\Wbem\RSoP.mfl
+(Sat Jun 07 23:30:51 2014.321453) : Finished compiling file:C:\WINDOWS\system32\Wbem\RSoP.mfl
+(Sat Jun 07 23:30:51 2014.321531) : Parsing MOF file: C:\WINDOWS\system32\Wbem\SceRsop.mof
+(Sat Jun 07 23:30:51 2014.321562) : Finished compiling file:C:\WINDOWS\system32\Wbem\SceRsop.mof
+(Sat Jun 07 23:30:54 2014.324421) : Parsing MOF file: C:\WINDOWS\system32\wbem\wscenter.mof
+(Sat Jun 07 23:30:54 2014.324437) : Finished compiling file:C:\WINDOWS\system32\wbem\wscenter.mof
+(Sat Jun 07 23:30:54 2014.324437) : Done!

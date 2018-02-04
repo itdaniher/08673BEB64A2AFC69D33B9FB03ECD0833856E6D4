@@ -1,0 +1,241 @@
+
+#pragma namespace("\\\\.\\root\\wmi")
+#pragma autorecover
+
+[
+ WMI, 
+ Dynamic,
+ Provider("wmiprov"),
+ Description("This class exposes the SM-HBA Adapter attributes. This will"
+             " include the number of ports on this adapter.") : amended,
+ guid("{bdc67efa-e5e7-4777-b13c-621459657099}")
+]
+class MS_VDS_SM_AdapterInformationQuery
+{
+    [key] 
+    string  InstanceName;
+    boolean Active;
+
+    [Description ("Unique identifier for the adapter. This idenitifer must "
+                  "be unique among all adapters. The same "
+                  "value for the identifier must be used for the same adapter "
+                  "in other classes that expose adapter information") : amended,
+
+  
+     WmiRefProperty("UniqueAdapterId"),
+     WmiDataId(1)
+    ]
+    uint64 UniqueAdapterId;             
+                                        
+
+    [HBAType("HBA_STATUS"), Description("HBA Status result for the query operation") : amended, ValueMap{"0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33"}, Values{ "Operation was successful ", "Error ", "Function not supported.", "invalid handle ", "Bad argument ", "WWN not recognized ", "Index not recognized ", "Larger buffer required ", "Information has changed since the last call to HBA_RefreshInformation ", "SCSI Check Condition reported", "Adapter busy or reserved, retry may be effective", "Request timed out, retry may be effective", "Referenced HBA has been removed or deactivated", "The requested ELS was rejected by the local adapter", "The specified LUN is not provided by the specified adapter", "An incompatibility has been detected among the library and driver modules", "Multiple adapters have a matching WWN", "A persistent binding request included a bad local SCSI bus number", "A persistent binding request included a bad local SCSI target number", "A persistent binding request included a bad local SCSI logical unit number", "A persistent binding set request included a local SCSI ID that was already bound", "A persistent binding request included a bad or unlocatable FCP Target FCID", "A persistent binding request included a bad FCP Target Node WWN", "A persistent binding request included a bad FCP Target Port WWN", "A persistent binding request included an FCP Logical Unit Number not defined by the identified Target", "A persistent binding request included an undefined or otherwise in accessible Logical Unit Unique Identifier", "A persistent binding remove request included a binding which did not match a binding established by the specified port", "A SCSI command was requested to an Nx_Port that was not a SCSI Target Port", "A request was made concerning an unsupported FC-4 protocol", "A request was made to enable unimplemented capabilities for a port", "SCSI target is busy", "A call was made to HBA_FreeLibrary when no library was loaded", "A call was made to HBA_LoadLibrary when a library was already loaded", "FCID passed into HBA_SendRNIDV2 violates access control rules" } : amended, 
+     WmiDataId(2)
+    ]
+    uint32 HBAStatus;
+
+    [WmiDataId(3)]
+    uint32 NumberOfPorts;   
+
+    [WmiDataId(4)]
+    uint32 VendorSpecificID;
+
+    [
+     cpp_quote("\n"
+     "   //******************************************************************\n"
+     "   //\n"
+     "   //  The string type is variable length (up to MaxLen).              \n"
+     "   //  Each string starts with a ushort that holds the strings length  \n"
+     "   //  (in bytes) followed by the WCHARs that make up the string.      \n"
+     "   //\n"
+     "   //  This struct is packed so the offset for SerialNumber must be    \n"
+     "   //  computed from the offset of Manufacturer.                       \n"
+     "   //   i.e. SerialNumber = Manufacturer+sizeof(USHORT)+Manufacturer[0]\n"
+     "   //\n"
+     "   //  similarly Model's offset must be computed from SerialNumber etc.\n"
+     "   //\n"
+     "   //******************************************************************\n"
+     "\n"),
+
+     MaxLen(64), 
+     WmiDataId(5)
+    ]
+    string Manufacturer;
+
+    [MaxLen(64), WmiDataId(6)]
+    string SerialNumber;
+
+    [MaxLen(256), WmiDataId(7)]
+    string Model;
+
+    [MaxLen(256), WmiDataId(8)]
+    string ModelDescription;
+
+    [MaxLen(256), WmiDataId(9)]
+    string HardwareVersion;
+
+    [MaxLen(256), WmiDataId(10)]
+    string DriverVersion;
+
+    [MaxLen(256), WmiDataId(11)]
+    string OptionROMVersion;
+
+    [MaxLen(256), WmiDataId(12)]
+    string FirmwareVersion;
+
+    [MaxLen(256), WmiDataId(13)]
+    string DriverName;
+
+    [MaxLen(256), WmiDataId(14)]
+    string HBASymbolicName;
+
+    [MaxLen(256), WmiDataId(15)]
+    string RedundantOptionROMVersion;
+
+    [MaxLen(256), WmiDataId(16)]
+    string RedundantFirmwareVersion;
+
+    [MaxLen(256), WmiDataId(17)]
+    string MfgDomain;
+};
+
+
+[WMI,
+ Description("This class is the FC_Port attributes") : amended
+ //guid("{96b827a7-2b4a-49c8-9097-078200c5a5cd}")
+]
+class MS_VDS_SMHBA_FC_Port 
+{
+    [HBAType("HBA_WWN"), WmiDataId(1)]
+    uint8   NodeWWN[8];
+
+    [HBAType("HBA_WWN"), WmiDataId(2)]
+    uint8   PortWWN[8];
+
+    [WmiDataId(3)]
+    uint32  FcId;
+
+    [HBAType("HBA_COS"), WmiDataId(4)]
+    uint32  PortSupportedClassofService;
+
+    [HBAType("HBA_FC4TYPES"), WmiDataId(5)]
+    uint8   PortSupportedFc4Types[32];
+
+    [HBAType("HBA_FC4TYPES"), WmiDataId(6)]
+    uint8   PortActiveFc4Types[32];
+
+    [HBAType("HBA_WWN"), WmiDataId(7)]
+    uint8   FabricName[8];
+
+    [WmiDataId(8)]
+    uint32  NumberofDiscoveredPorts;
+
+    [WmiDataId(9)] 
+    uint8   NumberofPhys;
+
+    [MaxLen(256), WmiDataId(10)]
+    string  PortSymbolicName;
+};
+
+
+[WMI,
+ Description("This class is the SAS_Port attributes") : amended
+// guid("{b914e34f-7b80-46b0-8034-6d9b689e1ddd}")
+]
+class MS_VDS_SMHBA_SAS_Port 
+{
+    [HBAType("HBA_SASPORTPROTOCOL"), WmiDataId(1)]
+    uint32  PortProtocol;
+
+    [HBAType("HBA_WWN"), WmiDataId(2)]
+    uint8   LocalSASAddress[8];
+
+    [HBAType("HBA_WWN"), WmiDataId(3)]
+    uint8   AttachedSASAddress[8];
+
+    [WmiDataId(4)]
+    uint32  NumberofDiscoveredPorts;
+
+    [WmiDataId(5)]
+    uint32  NumberofPhys;
+};
+
+
+[WMI,
+ Description("This class is the SMHBA_PORTATTRIBUTES") : amended,
+ guid("{50a97b2d-99ad-4cf9-8437-b4ea0c07be4c}")
+]
+class MS_VDS_SMHBA_PORTATTRIBUTES 
+{
+    [HBAType("HBA_PORTTYPE"), Values{"Unknown", "Other", "Not present", "Fabric", "Public Loop", "HBA_PORTTYPE_FLPORT", "Fabric Port", "Fabric expansion port", "Generic Fabric Port", "Private Loop", "Point to Point", "SAS (SSP or STP)", "SATA (Direct Attach)", "SAS Expander"} : amended, ValueMap{"1", "2", "3", "5", "6", "7", "8", "9", "10", "20", "21", "30", "31", "32"}, WmiDataId(1)]
+    uint32 PortType;
+
+    [HBAType("HBA_PORTSTATE"), Values{"Unknown", "Operational", "User Offline", "Bypassed", "In diagnostics mode", "Link Down", "Port Error", "Loopback", "Degraded" } : amended, ValueMap{"1","2","3","4","5","6","7","8", "9"}, WmiDataId(2)]
+    uint32 PortState;
+
+    [WmiDataId(3),
+     Description("Size of MS_VDS_SMHBA_SAS_Port or MS_VDS_SMHBA_FC_Port") : amended
+    ]
+    uint32 PortSpecificAttributesSize;
+
+    [MaxLen(256), WmiDataId(4)]
+    string OSDeviceName;
+
+    [WmiDataId(5)]
+    uint64 Reserved;
+
+    [WmiDataId(6),
+     Description(" MS_SMHBA_SAS_Port or MS_SMHBA_FC_Port Buffer") : amended,
+     WmiSizeIs("PortSpecificAttributesSize")
+    ]
+    uint8 PortSpecificAttributes[];
+};
+
+
+
+
+[WMI,
+ Dynamic,
+ Provider("wmiprov"),
+ Description("This class exposes port information operations that can be "
+             "determined from the adapter.  There should be one instance of "
+             " this class for each adapter") : amended,
+ guid("{5b6a8b86-708d-4ec6-82a6-39adcf6f6433}")
+]
+class MS_VDS_SM_PortInformationMethods
+{
+    [key]
+    string  InstanceName;
+    boolean Active;
+
+    [Implemented, WmiMethodId(1)]
+    void SM_GetPortType(
+                [in ] 
+                 uint32  PortIndex,
+                [out, HBAType("HBA_STATUS"), Description("HBA Status result for the query operation") : amended, ValueMap{"0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33"}, Values{ "Operation was successful ", "Error ", "Function not supported.", "invalid handle ", "Bad argument ", "WWN not recognized ", "Index not recognized ", "Larger buffer required ", "Information has changed since the last call to HBA_RefreshInformation ", "SCSI Check Condition reported", "Adapter busy or reserved, retry may be effective", "Request timed out, retry may be effective", "Referenced HBA has been removed or deactivated", "The requested ELS was rejected by the local adapter", "The specified LUN is not provided by the specified adapter", "An incompatibility has been detected among the library and driver modules", "Multiple adapters have a matching WWN", "A persistent binding request included a bad local SCSI bus number", "A persistent binding request included a bad local SCSI target number", "A persistent binding request included a bad local SCSI logical unit number", "A persistent binding set request included a local SCSI ID that was already bound", "A persistent binding request included a bad or unlocatable FCP Target FCID", "A persistent binding request included a bad FCP Target Node WWN", "A persistent binding request included a bad FCP Target Port WWN", "A persistent binding request included an FCP Logical Unit Number not defined by the identified Target", "A persistent binding request included an undefined or otherwise in accessible Logical Unit Unique Identifier", "A persistent binding remove request included a binding which did not match a binding established by the specified port", "A SCSI command was requested to an Nx_Port that was not a SCSI Target Port", "A request was made concerning an unsupported FC-4 protocol", "A request was made to enable unimplemented capabilities for a port", "SCSI target is busy", "A call was made to HBA_FreeLibrary when no library was loaded", "A call was made to HBA_LoadLibrary when a library was already loaded", "FCID passed into HBA_SendRNIDV2 violates access control rules" } : amended ]
+                 uint32 HBAStatus,
+                [out, HBAType("HBA_PORTTYPE"), Values{"Unknown", "Other", "Not present", "Fabric", "Public Loop", "HBA_PORTTYPE_FLPORT", "Fabric Port", "Fabric expansion port", "Generic Fabric Port", "Private Loop", "Point to Point", "SAS (SSP or STP)", "SATA (Direct Attach)", "SAS Expander"} : amended, ValueMap{"1", "2", "3", "5", "6", "7", "8", "9", "10", "20", "21", "30", "31", "32"} ]
+                 uint32  PortType
+                );
+
+    [Implemented, WmiMethodId(2)]
+    void SM_GetAdapterPortAttributes(
+                [in ] 
+                 uint32  PortIndex,
+                [in,
+                 cpp_quote("#define SM_PORT_SPECIFIC_ATTRIBUTES_MAXSIZE "
+                           " max(sizeof(MS_VDS_SMHBA_FC_Port), "
+                           " sizeof(MS_VDS_SMHBA_SAS_Port))")
+                ]
+                 uint32  PortSpecificAttributesMaxSize,
+                [out, HBAType("HBA_STATUS"), Description("HBA Status result for the query operation") : amended, ValueMap{"0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33"}, Values{ "Operation was successful ", "Error ", "Function not supported.", "invalid handle ", "Bad argument ", "WWN not recognized ", "Index not recognized ", "Larger buffer required ", "Information has changed since the last call to HBA_RefreshInformation ", "SCSI Check Condition reported", "Adapter busy or reserved, retry may be effective", "Request timed out, retry may be effective", "Referenced HBA has been removed or deactivated", "The requested ELS was rejected by the local adapter", "The specified LUN is not provided by the specified adapter", "An incompatibility has been detected among the library and driver modules", "Multiple adapters have a matching WWN", "A persistent binding request included a bad local SCSI bus number", "A persistent binding request included a bad local SCSI target number", "A persistent binding request included a bad local SCSI logical unit number", "A persistent binding set request included a local SCSI ID that was already bound", "A persistent binding request included a bad or unlocatable FCP Target FCID", "A persistent binding request included a bad FCP Target Node WWN", "A persistent binding request included a bad FCP Target Port WWN", "A persistent binding request included an FCP Logical Unit Number not defined by the identified Target", "A persistent binding request included an undefined or otherwise in accessible Logical Unit Unique Identifier", "A persistent binding remove request included a binding which did not match a binding established by the specified port", "A SCSI command was requested to an Nx_Port that was not a SCSI Target Port", "A request was made concerning an unsupported FC-4 protocol", "A request was made to enable unimplemented capabilities for a port", "SCSI target is busy", "A call was made to HBA_FreeLibrary when no library was loaded", "A call was made to HBA_LoadLibrary when a library was already loaded", "FCID passed into HBA_SendRNIDV2 violates access control rules" } : amended ] 
+                 uint32  HBAStatus,
+                [out, HBAType("MS_VDS_SMHBA_PORTATTRIBUTES") ] 
+                 MS_VDS_SMHBA_PORTATTRIBUTES  PortAttributes
+                );
+
+    [Implemented, WmiMethodId(10)]
+    void SM_RefreshInformation();
+};
+
+
+

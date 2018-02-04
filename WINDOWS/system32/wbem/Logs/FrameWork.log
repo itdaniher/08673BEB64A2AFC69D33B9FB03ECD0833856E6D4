@@ -1,0 +1,6 @@
+    Login Warning - provider with that name already existed, overridden with latest provider login (root\cimv2:Win32_ComputerSystemWindowsProductActivationSetting)	06/07/2014 23:13:58.186	thread:1216	[d:\nt\admin\wmi\wbem\sdk\framedyn\wbemglue.cpp.2100]
+    Login Warning - provider with that name already existed, overridden with latest provider login (root\cimv2:Win32_ComputerSystemWindowsProductActivationSetting)	06/07/2014 23:29:23.437	thread:1248	[d:\nt\admin\wmi\wbem\sdk\framedyn\wbemglue.cpp.2100]
+Shell Name Explorer.exe in Registry not found in process list.	06/08/2014 09:34:32.225	thread:1008	[d:\nt\admin\wmi\wbem\providers\win32provider\common\implogonuser.cpp.1019]
+Unable to locate Shell Process, Impersonation failed.	06/08/2014 09:34:32.225	thread:1008	[d:\nt\admin\wmi\wbem\providers\win32provider\common\implogonuser.cpp.1027]
+Shell Name Explorer.exe in Registry not found in process list.	06/08/2014 09:35:13.294	thread:2412	[d:\nt\admin\wmi\wbem\providers\win32provider\common\implogonuser.cpp.1019]
+Unable to locate Shell Process, Impersonation failed.	06/08/2014 09:35:13.294	thread:2412	[d:\nt\admin\wmi\wbem\providers\win32provider\common\implogonuser.cpp.1027]

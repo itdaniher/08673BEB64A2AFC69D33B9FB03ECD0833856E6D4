@@ -1,0 +1,32 @@
+CatalogDB: 11:26:05 PM 6/7/2014: DONE Adding Catalog File:  KB981212.CAT
+CatalogDB: 11:26:05 PM 6/7/2014: Adding Catalog File:  KB981263.CAT
+CatalogDB: 11:26:05 PM 6/7/2014: DONE Adding Catalog File:  KB981263.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: Adding Catalog File:  KB981544.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: DONE Adding Catalog File:  KB981544.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: Adding Catalog File:  KB981997.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: DONE Adding Catalog File:  KB981997.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: Adding Catalog File:  KB982051.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: DONE Adding Catalog File:  KB982051.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: Adding Catalog File:  KB982132.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: DONE Adding Catalog File:  KB982132.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: Adding Catalog File:  KB982316.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: DONE Adding Catalog File:  KB982316.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: Adding Catalog File:  KB982501.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: DONE Adding Catalog File:  KB982501.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: Adding Catalog File:  KB982665.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: DONE Adding Catalog File:  KB982665.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: Adding Catalog File:  KB982666.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: DONE Adding Catalog File:  KB982666.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: Adding Catalog File:  KB983169.CAT
+CatalogDB: 11:26:06 PM 6/7/2014: DONE Adding Catalog File:  KB983169.CAT
+CatalogDB: 11:30:51 PM 6/7/2014: File #1 at line #3141 encountered error 0x000003eb
+CatalogDB: 11:35:51 PM 6/7/2014: File #1 at line #3141 encountered error 0x000003eb
+CatalogDB: 11:36:33 PM 6/7/2014: CATDBSVC: Uninitializing CryptSvc. CryptSvc
+CatalogDB: 11:37:03 PM 6/7/2014: CATDBSVC: Initializing CryptSvc. CryptSvc
+CatalogDB: 11:38:19 PM 6/7/2014: CATDBSVC: Uninitializing CryptSvc. CryptSvc
+CatalogDB: 9:33:34 PM 6/8/2014: CATDBSVC: Initializing CryptSvc. CryptSvc
+CatalogDB: 9:34:11 AM 6/8/2014: Adding Catalog File:  oem0.CAT
+CatalogDB: 9:34:11 AM 6/8/2014: DONE Adding Catalog File:  oem0.CAT
+CatalogDB: 9:34:32 AM 6/8/2014: CATDBSVC: Uninitializing CryptSvc. CryptSvc
+CatalogDB: 9:34:59 AM 6/8/2014: CATDBSVC: Initializing CryptSvc. CryptSvc
+CatalogDB: 9:35:13 AM 6/8/2014: CATDBSVC: Uninitializing CryptSvc. CryptSvc

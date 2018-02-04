@@ -1,0 +1,131 @@
+(Sat Jun 07 23:13:59 2014): ================================================================================
+(Sat Jun 07 23:13:59 2014): Beginning Wbemupgd.dll Registration
+(Sat Jun 07 23:13:59 2014): ERROR: Unable to get build version number for UpdateServiceSecurity.
+(Sat Jun 07 23:13:59 2014): Current build of wbemupgd.dll is 5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+(Sat Jun 07 23:13:59 2014): Beginning Core Upgrade
+(Sat Jun 07 23:13:59 2014): Beginning MOF load
+(Sat Jun 07 23:13:59 2014): Processing C:\WINDOWS\system32\WBEM\cimwin32.mof
+(Sat Jun 07 23:14:01 2014): Processing C:\WINDOWS\system32\WBEM\cimwin32.mfl
+(Sat Jun 07 23:14:01 2014): Processing C:\WINDOWS\system32\WBEM\system.mof
+(Sat Jun 07 23:14:01 2014): Processing C:\WINDOWS\system32\WBEM\wmipcima.mof
+(Sat Jun 07 23:14:01 2014): Processing C:\WINDOWS\system32\WBEM\wmipcima.mfl
+(Sat Jun 07 23:14:01 2014): Processing C:\WINDOWS\system32\WBEM\regevent.mof
+(Sat Jun 07 23:14:01 2014): Processing C:\WINDOWS\system32\WBEM\regevent.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\ntevt.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\ntevt.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\secrcw32.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\secrcw32.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\dsprov.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\dsprov.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\policman.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\policman.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\subscrpt.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\evntrprv.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmi.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmi.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\scm.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmitimep.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmitimep.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmipdskq.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmipdskq.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmipicmp.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmipicmp.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmipiprt.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmipiprt.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmipjobj.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmipjobj.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmipsess.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\wmipsess.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\krnlprov.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\krnlprov.mfl
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\cli.mof
+(Sat Jun 07 23:14:02 2014): Processing C:\WINDOWS\system32\WBEM\tscfgwmi.mof
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\tscfgwmi.mfl
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\licwmi.mof
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\licwmi.mfl
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\hnetcfg.mof
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\sr.mof
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\CmdEvTgProv.mof
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\whqlprov.mof
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\ieinfo5.mof
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\vds.mof
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\vds.mfl
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\vss.mof
+(Sat Jun 07 23:14:03 2014): Processing C:\WINDOWS\system32\WBEM\vss.mfl
+(Sat Jun 07 23:14:03 2014): MOF load completed.
+(Sat Jun 07 23:14:03 2014): Beginning MOF load
+(Sat Jun 07 23:14:03 2014): MOF load completed.
+(Sat Jun 07 23:14:03 2014): Core Upgrade completed.
+(Sat Jun 07 23:14:03 2014): Wbemupgd.dll Service Security upgrade not required.
+(Sat Jun 07 23:14:03 2014): Beginning WMI(WDM) Namespace Init
+(Sat Jun 07 23:14:05 2014): WMI(WDM) Namespace Init Completed
+(Sat Jun 07 23:14:05 2014): ESS enabled
+(Sat Jun 07 23:14:05 2014): Wbemupgd.dll Registration completed.
+(Sat Jun 07 23:14:05 2014): ================================================================================
+(Sat Jun 07 23:29:24 2014): ================================================================================
+(Sat Jun 07 23:29:24 2014): Beginning Wbemupgd.dll Registration
+(Sat Jun 07 23:29:24 2014): ERROR: Unable to get build version number for UpdateServiceSecurity.
+(Sat Jun 07 23:29:24 2014): Current build of wbemupgd.dll is 5.2.3790.3959 (srv03_sp2_rtm.070216-1710)
+(Sat Jun 07 23:29:24 2014): Beginning Core Upgrade
+(Sat Jun 07 23:29:25 2014): Beginning MOF load
+(Sat Jun 07 23:29:25 2014): Processing C:\WINDOWS\system32\WBEM\cimwin32.mof
+(Sat Jun 07 23:29:55 2014): ERROR: An error occurred while compiling the following MOF file: C:\WINDOWS\system32\WBEM\cimwin32.mof  Please refer to C:\WINDOWS\system32\WBEM\Logs\mofcomp.log for more detailed information.
+(Sat Jun 07 23:29:55 2014): Processing C:\WINDOWS\system32\WBEM\cimwin32.mfl
+(Sat Jun 07 23:29:56 2014): Processing C:\WINDOWS\system32\WBEM\system.mof
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\wmipcima.mof
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\wmipcima.mfl
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\regevent.mof
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\regevent.mfl
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\ntevt.mof
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\ntevt.mfl
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\secrcw32.mof
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\secrcw32.mfl
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\dsprov.mof
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\dsprov.mfl
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\policman.mof
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\policman.mfl
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\subscrpt.mof
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\evntrprv.mof
+(Sat Jun 07 23:29:57 2014): Processing C:\WINDOWS\system32\WBEM\wmi.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmi.mfl
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\scm.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmitimep.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmitimep.mfl
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmipdskq.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmipdskq.mfl
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmipicmp.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmipicmp.mfl
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmipiprt.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmipiprt.mfl
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmipjobj.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmipjobj.mfl
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmipsess.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\wmipsess.mfl
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\krnlprov.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\krnlprov.mfl
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\cli.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\tscfgwmi.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\tscfgwmi.mfl
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\licwmi.mof
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\licwmi.mfl
+(Sat Jun 07 23:29:58 2014): Processing C:\WINDOWS\system32\WBEM\hnetcfg.mof
+(Sat Jun 07 23:29:59 2014): Processing C:\WINDOWS\system32\WBEM\sr.mof
+(Sat Jun 07 23:29:59 2014): Processing C:\WINDOWS\system32\WBEM\CmdEvTgProv.mof
+(Sat Jun 07 23:29:59 2014): Processing C:\WINDOWS\system32\WBEM\whqlprov.mof
+(Sat Jun 07 23:29:59 2014): Processing C:\WINDOWS\system32\WBEM\ieinfo5.mof
+(Sat Jun 07 23:29:59 2014): Processing C:\WINDOWS\system32\WBEM\vds.mof
+(Sat Jun 07 23:29:59 2014): Processing C:\WINDOWS\system32\WBEM\vds.mfl
+(Sat Jun 07 23:29:59 2014): Processing C:\WINDOWS\system32\WBEM\vss.mof
+(Sat Jun 07 23:29:59 2014): Processing C:\WINDOWS\system32\WBEM\vss.mfl
+(Sat Jun 07 23:29:59 2014): MOF load completed.
+(Sat Jun 07 23:29:59 2014): Beginning MOF load
+(Sat Jun 07 23:29:59 2014): MOF load completed.
+(Sat Jun 07 23:29:59 2014): ERROR: The following WMI CORE MOF file(s) failed to load:
+(Sat Jun 07 23:29:59 2014): ERROR: C:\WINDOWS\system32\WBEM\cimwin32.mof
+(Sat Jun 07 23:29:59 2014): Core Upgrade completed.
+(Sat Jun 07 23:29:59 2014): Wbemupgd.dll Service Security upgrade not required.
+(Sat Jun 07 23:29:59 2014): Beginning WMI(WDM) Namespace Init
+(Sat Jun 07 23:29:59 2014): WMI(WDM) Namespace Init Completed
+(Sat Jun 07 23:29:59 2014): ESS enabled
+(Sat Jun 07 23:29:59 2014): Wbemupgd.dll Registration completed.
+(Sat Jun 07 23:29:59 2014): ================================================================================
